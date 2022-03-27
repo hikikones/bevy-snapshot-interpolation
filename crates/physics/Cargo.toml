@@ -1,0 +1,9 @@
+[package]
+name = "physics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy_extensions = { path = "../bevy_extensions" }
+bevy = "0.6"
+bevy_rapier3d = "0.12"
